@@ -59,7 +59,6 @@ $ python Run.py
 - We require accounts to use two-factor authentication for added security.
 - You must use a new account or a fake account to log in.
 - You should not use your main account or accounts with large followers.
-- Check your account regularly and don't approve it if someone else logs in.
 
 ### Cookies logged out or account blocked?
 - You can complete your account with two-factor authentication, email and phone number to avoid spam detection.
