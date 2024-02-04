@@ -60,7 +60,7 @@ $ python Run.py
 - You must use a new account or a fake account to log in.
 - You should not use your main account or accounts with large followers.
 
-### Cookies logged out or account blocked?
+### Cookies logged out?
 - You can complete your account with two-factor authentication, email and phone number to avoid spam detection.
 - Your account must be online in the browser where you retrieve the cookies.
 - Complete your account with a profile photo, biography and several posts.
