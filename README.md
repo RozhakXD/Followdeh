@@ -54,6 +54,7 @@ $ python Run.py
 - The threads system detects spam on your account so they delete likes, comments or followers on your account.
 - Maybe their Threads account was disabled or spammed.
 - Their threads are blocked or disabled by the developer so they automatically cancel likes, comments or following your account.
+- Every once in a while threads check likes, comments or followers to avoid spam.
 
 ### Requirements for logging in?
 - We require accounts to use two-factor authentication for added security.
