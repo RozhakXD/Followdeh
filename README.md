@@ -53,7 +53,7 @@ $ python Run.py
 ### Why did LIKES, COMMENTS and FOLLOWERS drop?
 - The threads system detects spam on your account so they delete likes, comments or followers on your account.
 - Maybe their Threads account was disabled or spammed.
-- Their threads are blocked or disabled so they cancel liking, commenting and following.
+- Their threads are blocked or disabled so they automatically cancel likes, comments and follows.
 
 ### Requirements for logging in?
 - We require accounts to use two-factor authentication for added security.
