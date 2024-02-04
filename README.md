@@ -38,11 +38,11 @@ $ python Run.py
 ```
 
 ### Why login failed?
+- Because the cookies you entered are not yet registered in Threads.
 - Maybe you entered your Threads account cookies incorrectly or the cookies have expired.
-- Your threads have been disabled by the developer or checkpointed.
 - You can try to replace the cookie threads with others.
 - Your threads account cookies are logged out.
-- Because the cookies you entered are not yet registered in Threads.
+- Your threads have been disabled by the developer or checkpointed.
 
 ### FOLLOWERS, LIKES and COMMENTS not arriving?
 - One of the problems is that our system does not have users to make exchanges.
