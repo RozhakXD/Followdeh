@@ -29,12 +29,13 @@ $ pkg install git python-pip
 $ git clone https://github.com/RozhakXD/Followdeh
 $ cd "Followdeh"
 $ python -m pip install -r requirements.txt
-$ python Run.py
+$ chmod +x aarch64
+$ ./aarch64
 ```
 
 ```
 $ cd "$HOME/Followdeh" && git pul
-$ python Run.py
+$ ./aarch64
 ```
 
 ### Why login failed?
