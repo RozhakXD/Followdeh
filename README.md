@@ -62,8 +62,8 @@ $ python Run.py
 - Check your account regularly and don't approve it if someone else logs in.
 
 ### Cookies logged out or account blocked?
-- Your account must be online in the browser where you retrieve the cookies.
 - You can complete your account with two-factor authentication, email and phone number to avoid spam detection.
+- Your account must be online in the browser where you retrieve the cookies.
 - Complete your account with a profile photo, biography and several posts.
 
 ### No cookies collected?
