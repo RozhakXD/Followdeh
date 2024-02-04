@@ -19,7 +19,7 @@
 ### What is Followdeh?
 [**Followdeh**](https://github.com/RozhakXD/Followdeh) is a tools that you can use to get LIKES, COMMENTS and FOLLOWERS on Threads using an exchange system with other users.
 
-How many or how few LIKES, COMMENTS and FOLLOWERS you get depends on the number of our users.
+You can get some FOLLOWERS by following some users first.
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter this command into termux!
