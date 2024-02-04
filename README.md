@@ -45,15 +45,15 @@ $ python Run.py
 - Maybe the Instagram account cookies you entered are not yet registered in Threads.
 
 ### FOLLOWERS, LIKES and COMMENTS not arriving?
-- Maybe your threads account is locked or in private mode so you can't get results.
+- Because your account is in private mode so you cannot get likes, comments or followers.
 - Our users have already sent followers or likes so they can't send any more.
 - Maybe the post link format or username format that you entered is wrong.
 - One of the problems is that our system does not have users to make exchanges.
 
 ### Why did LIKES, COMMENTS and FOLLOWERS drop?
 - The threads system detects spam on your account so they delete likes, comments or followers on your account.
-- Their threads are blocked or disabled by the developer so they automatically cancel likes, comments or following your account.
 - Maybe their Threads account was disabled or spammed.
+- Their threads are blocked or disabled by the developer so they automatically cancel likes, comments or following your account.
 
 ### Requirements for logging in?
 - We require accounts to use two-factor authentication for added security.
