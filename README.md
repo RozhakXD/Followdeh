@@ -22,7 +22,7 @@
 You can get some FOLLOWERS by following some users first.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter this command into termux!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/STkEA_sBVqg). Then you enter this command into termux!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
